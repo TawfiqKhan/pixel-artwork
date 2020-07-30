@@ -1,6 +1,6 @@
-# Pixel Art Maker Project
+# Pixel Artwork Project
 
-The Project was done as part of the intermediate Javascript Course for the Front-End Web Developer Nanodegree of [Udacity](http://udacity.com)
+The app was created as a project for the Enterprise Web and Mobile Developer [diploma](https://www.trios.com/programs-courses/technology/enterprise-web-and-mobile-developer/) of triOS Collge. 
 
 
 
@@ -25,10 +25,9 @@ Here in this page you can draw with your mouse over a grid canvas made using HTM
 * Click on any square and it will fill with your choose color.
 * keep playing with the squares and have Fun!!
 
-
 ## Creator
 
-Special3220 a Udacity Student of Front-End Web Developer nanodegree program.
+Md Tawfiqul Hasan Khan a Student of Enterprise Web and Mobile Developer program at triOS Collge.
 
 
 
