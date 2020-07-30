@@ -6,7 +6,7 @@ The app was created as a project for the Enterprise Web and Mobile Developer [di
 
 ## About the project
 
-Here in this page you can draw with your mouse over a grid canvas made using HTML5, CSS3 and Javascript. A Demo version of the project can be seen here [Pixel-Art](https://special3220.github.io/Pixel-Art/)
+Here in this page you can draw with your mouse over a grid canvas made using HTML5, CSS3 and Javascript. A Demo version of the project can be seen here [Pixel-Artwork](https://special3220.github.io/pixel-artwork/)
 
 
 ## Instruction of How to Start
